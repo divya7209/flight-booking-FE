@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Dr. John Doe",
+        "specialization": "Cardiologist",
+        "location": "Bangalore",
+        "experience": "10 years",
+        "contact": "1234567890",
+        "availableSlots": [
+            "2025-02-20T10:00:00Z",
+            "2025-02-20T14:00:00Z",
+            "2025-02-19T09:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Jane Smith",
+        "specialization": "Cardiologist",
+        "location": "Bangalore",
+        "experience": "8 years",
+        "contact": "0987654321",
+        "availableSlots": [
+            "2025-02-20T10:00:00Z",
+            "2025-02-20T14:00:00Z",
+            "2025-02-19T09:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Rajesh Kumar",
+        "specialization": "Cardiologist",
+        "location": "Bangalore",
+        "experience": "12 years",
+        "contact": "1122334455",
+        "availableSlots": [
+            "2025-02-20T10:00:00Z",
+            "2025-02-20T14:00:00Z",
+            "2025-02-19T09:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Priya Sharma",
+        "specialization": "Neurologist",
+        "location": "Mumbai",
+        "experience": "15 years",
+        "contact": "2233445566",
+        "availableSlots": [
+            "2025-02-20T11:00:00Z",
+            "2025-02-19T15:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Anil Mehta",
+        "specialization": "Orthopedic Surgeon",
+        "location": "Delhi",
+        "experience": "20 years",
+        "contact": "3344556677",
+        "availableSlots": [
+            "2025-02-20T12:00:00Z",
+            "2025-02-19T16:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Kavita Rao",
+        "specialization": "Pediatrician",
+        "location": "Chennai",
+        "experience": "10 years",
+        "contact": "4455667788",
+        "availableSlots": [
+            "2025-02-20T13:00:00Z",
+            "2025-02-19T20:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Suresh Patil",
+        "specialization": "Dermatologist",
+        "location": "Hyderabad",
+        "experience": "7 years",
+        "contact": "5566778899",
+        "availableSlots": [
+            "2025-02-20T14:00:00Z",
+            "2025-02-19T19:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Meena Gupta",
+        "specialization": "Gynecologist",
+        "location": "Kolkata",
+        "experience": "19 years",
+        "contact": "6677889900",
+        "availableSlots": [
+            "2025-02-20T15:00:00Z",
+            "2025-02-19T19:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Amit Singh",
+        "specialization": "Cardiologist",
+        "location": "Pune",
+        "experience": "9 years",
+        "contact": "7788990011",
+        "availableSlots": [
+            "2025-02-20T16:00:00Z",
+            "2025-02-19T20:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Ritu Verma",
+        "specialization": "Endocrinologist",
+        "location": "Ahmedabad",
+        "experience": "14 years",
+        "contact": "8899001122",
+        "availableSlots": [
+            "2025-02-20T20:00:00Z",
+            "2025-02-19T21:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Vikram Desai",
+        "specialization": "Cardiologist",
+        "location": "Bangalore",
+        "experience": "11 years",
+        "contact": "9900112233",
+        "availableSlots": [
+            "2025-02-20T10:00:00Z",
+            "2025-02-20T14:00:00Z",
+            "2025-02-19T09:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Neha Kapoor",
+        "specialization": "Oncologist",
+        "location": "Jaipur",
+        "experience": "13 years",
+        "contact": "1011121314",
+        "availableSlots": [
+            "2025-02-20T19:00:00Z",
+            "2025-02-19T22:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Arjun Nair",
+        "specialization": "Cardiologist",
+        "location": "Kochi",
+        "experience": "10 years",
+        "contact": "1213141516",
+        "availableSlots": [
+            "2025-02-20T19:00:00Z",
+            "2025-02-19T23:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Pooja Reddy",
+        "specialization": "Rheumatologist",
+        "location": "Visakhapatnam",
+        "experience": "16 years",
+        "contact": "1314151620",
+        "availableSlots": [
+            "2025-02-20T20:00:00Z",
+            "2025-02-19T00:00:00Z"
+        ]
+    },
+    {
+        "name": "Dr. Sanjay Bhatt",
+        "specialization": "Cardiologist",
+        "location": "Bangalore",
+        "experience": "10 years",
+        "contact": "1415162019",
+        "availableSlots": [
+            "2025-02-20T10:00:00Z",
+            "2025-02-20T14:00:00Z",
+            "2025-02-19T09:00:00Z"
+        ]
+    }
+]
